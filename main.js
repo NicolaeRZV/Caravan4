@@ -1,0 +1,1 @@
+/* Intentionally left empty: site now runs without JavaScript. */
